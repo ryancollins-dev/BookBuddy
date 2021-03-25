@@ -1,0 +1,18 @@
+Attacking Network Protocols
+Black Hat Go
+Foundations of Information Security
+Hacking The Art of Exploitation 2nd Edition
+Linux Basics for Hackers
+Malware Data Science
+Metasploit A Penetration Testers Guide
+Penetration Testing
+Practical Binary Analysis
+Practical Malware Analysis
+Practical Packet Analysis
+Real-World Bug Hunting
+Rootkits and Bootkits
+Serious Crytography
+The Car Hacker's Handbook
+The Hardware Hacker
+The Linux Command Line
+Web Security For Developers
